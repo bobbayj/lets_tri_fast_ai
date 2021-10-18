@@ -17,5 +17,6 @@ Basic lesson covering basics.
 
 Production and basic SGD overview.
 
+* Used instaloader to download profiles from instagram
 * Homework: [adapted production site](https://whatsapp-media-filter.onrender.com)
   * 5% accuracy of distinguishing if an image is insta-worthy, a screenshot (of a document of something), or is a meme!
